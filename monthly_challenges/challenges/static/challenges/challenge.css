@@ -1,0 +1,17 @@
+h1,
+h2 {
+    text-align: center;
+    color: white;
+}
+
+h1 { 
+    font-weight: normal;
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem 0;
+    color: blueviolet;
+}
+
+h2 {
+    font-weight: bold; 
+    font-size: 2.5rem;
+}
